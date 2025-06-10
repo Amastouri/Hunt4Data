@@ -37,6 +37,9 @@ python hunt4data.py
 pip install PyPDF2
 ```
 
+⚠️ **Utilisez Python 3.10 pour assurer la compatibilité avec PyPDF2**  
+(Les versions plus récentes peuvent poser problème pour cette librairie)
+
 ## 🧪 Exemple de détection
 
 ```
